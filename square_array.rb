@@ -4,6 +4,6 @@ def square_array(array)
    }
 end
 
-x = [2, 4, 6]
+x = [1, 2, 3]
 
 square_array(x)
