@@ -1,6 +1,6 @@
 def square_array(array)
-   array.each {|element| puts element**2}
-
+   array.each {array.collect |element| puts element**2}
+end
 
 x = [2, 4, 6]
 
